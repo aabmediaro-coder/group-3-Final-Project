@@ -1,9 +1,14 @@
 # group-3-Final-Project
 hi
 
-group members:
-Ally
-Dona
-Yzel
-Aiesha
-Avryelle
+group members
+
+ally
+
+dona
+
+yzel
+
+aiesha
+
+avryelle
